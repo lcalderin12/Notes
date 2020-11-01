@@ -1,11 +1,11 @@
 # Notes
 
 ## Screenshots
-![](img/home)
-![](img/note)
-![](img/first)
-![](img/saved)
-![](img/view)
+![](img/home.png)
+![](img/note.png)
+![](img/first.png)
+![](img/saved.png)
+![](img/view.png)
 
 ## Table of contents
 - [Description](#Description)
